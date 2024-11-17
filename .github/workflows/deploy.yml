@@ -31,6 +31,6 @@ jobs:
         with:
           project: "laion-azeredo-blog"
           entrypoint: "serve.ts"
-          root: "_site"
+          root: "."
           
           
