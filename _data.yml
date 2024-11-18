@@ -1,15 +1,15 @@
 lang: en
 
 home:
-  welcome: Hello, I am a person that writes stuff.
+  welcome: web dev, deno and good codes.
 
 menu_links: []
 extra_head: []
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Blog name
-  description: General description of the blog
+  site: LaionAzeredo.dev
+  description: web dev, deno and good codes.
   title: "=title"
   image: "=image"
   twitter: "@username"
