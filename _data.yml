@@ -1,7 +1,7 @@
-lang: en
+lang: pt-BR
 
 home:
-  welcome: web dev, deno and good codes.
+  welcome: Programming should be simple! - Albert Einstein.
 
 menu_links: []
 extra_head: []
@@ -9,7 +9,7 @@ extra_head: []
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: LaionAzeredo.dev
-  description: web dev, deno and good codes.
+  description: Programming should be simple! - Albert Einstein.
   title: "=title"
   image: "=image"
   twitter: "@username"
