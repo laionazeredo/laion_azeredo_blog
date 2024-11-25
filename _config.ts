@@ -7,7 +7,6 @@ import lume from "lume/mod.ts";
 import mermaid from "https://deno.land/x/lume_mermaid_plugin/mod.ts";
 import picture from "lume/plugins/picture.ts";
 import robots from "lume/plugins/robots.ts";
-import sitemap from "lume/plugins/sitemap.ts";
 import transformImages from "lume/plugins/transform_images.ts";
 
 const site = lume();
@@ -20,7 +19,6 @@ site.use(checkUrls());
 site.use(picture());
 site.use(transformImages());
 site.use(robots());
-//site.use(sitemap());
 site.use(mermaid())
 
 
